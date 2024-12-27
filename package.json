@@ -1,0 +1,13 @@
+{
+  "name": "sys-junk-cleaner",
+  "description": "",
+  "scripts": {
+    "spell": "cspell lint --words-only --unique --dot --gitignore \"**/*.go\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "cspell": "latest"
+  }
+}
